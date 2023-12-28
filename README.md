@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawadon Thosthaisong, but you can call me Copter</h1>
-<h3 align="center">A highschooler that interested in coding and programming.</h3>
+<h3 align="center">A Thai highschooler that interested in coding and programming.</h3>
 
 - 😶 i'm learning how to code
 
